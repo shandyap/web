@@ -291,7 +291,7 @@ out+=`
 
 <p>${svg.view.icon(val.icon)}</p>
 <b>Facebook</b>
-<p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+<p>Ayo Semangat! Kita semua pasti Bisaaaaaaaaaaaaa!!!!!!.</p>
 <p><a class="" href="#" >View details</a></p>
 </div>
 </div>
